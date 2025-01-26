@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](file:///C:/Users/Utkrisht/OneDrive/Desktop/reports/reports/Customer%20Performance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://drive.google.com/file/d/10I-WxJ-550Vw3Y5aWV-oAfAEA5IzBtLv/view?usp=sharing)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://drive.google.com/file/d/15xO8HY1Kv12H5i4QgMqDn5Q27BP4ZNL2/view?usp=sharing)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,9 +18,9 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://drive.google.com/file/d/1o9HFzm13A1VybAWO2d4ZvzfLDpwDFEN9/view?usp=sharing)_ & _[Months](https://drive.google.com/file/d/1I_wLMtf9iNwdCWPPDbVmdCOrN_pnRtfK/view?usp=sharing)_ 
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://drive.google.com/file/d/1k1gZl-EgnDGUqaZnWgqQpHTiOg85mkPW/view?usp=sharing)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
